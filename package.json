@@ -23,6 +23,7 @@
     "webpack-node-externals": "^1.7.2"
   },
   "dependencies": {
+    "@sindresorhus/do-not-disturb": "^1.1.0",
     "express": "^4.17.1",
     "mongoose": "^5.9.20"
   }

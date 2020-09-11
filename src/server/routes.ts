@@ -2,6 +2,8 @@ import { Router } from 'express';
 import { User } from '../models/user';
 import { PortfolioItem } from '../models/portfolio-item';
 
+
+
 const userRoutes = Router();
 
 userRoutes.get('/:id', async (req, res) => {
